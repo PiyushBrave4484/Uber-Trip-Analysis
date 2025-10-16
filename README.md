@@ -1,8 +1,8 @@
 # Uber-Trip-Analysis
 
 # Report Pages-->
-![Overview Analysis](Overview Analysis.png)
+![Overview Analysis](OverviewAnalysis.png)
 
-![Rating & Cancellation](Rating & Cancellation.png)
+![Rating & Cancellation](Rating&Cancellation.png)
 
-![Vehical Details](Vehical Details.png)
+![Vehical Details](VehicalDetails.png)
